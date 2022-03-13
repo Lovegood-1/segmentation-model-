@@ -11,11 +11,8 @@ Some useful segmentation model  for TD
 - Masked Feature Prediction for Self-Supervised Visual Pre-Training
 - Dynamic Head: Unifying Object Detection Heads with Attentions
 - Distilling Object Detectors via Decoupled Features
-
 - Improved Knowledge Distillation via Teacher Assistant
-
 - Look at Boundary: A Boundary-Aware Face Alignment Algorithm
-
 - A critical analysis of self-supervision, or what we can
 - SCAN: learning to classify images without labels
 - self-supervised learning by estimation twin class distributions
@@ -30,4 +27,4 @@ Some useful segmentation model  for TD
 - Context prior for scene segmentation
 - FreeSOLO: Learning to Segment Objects without Annotation
 - Unified Perceptual Parsing for Scene Understanding
-Gated Fully Fusion for Semantic Segmentation(GFF)
+- Gated Fully Fusion for Semantic Segmentation(GFF)
